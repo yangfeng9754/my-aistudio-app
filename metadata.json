@@ -1,0 +1,5 @@
+{
+  "name": "StoryBoard AI",
+  "description": "Transform your scripts into visual storyboards using Gemini 3 Pro. Features script analysis, high-resolution image generation (1K/2K/4K), and an AI creative assistant.",
+  "requestFramePermissions": []
+}
